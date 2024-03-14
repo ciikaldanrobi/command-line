@@ -1,44 +1,51 @@
 # command-line
-![1](https://github.com/ciikaldanrobi/command-line/assets/162525409/feb351c1-8f31-4a45-8ad4-04b319d27883)
-![2](https://github.com/ciikaldanrobi/command-line/assets/162525409/6b448247-bd95-4eab-a2a8-07d95c7bd43a)
-![3](https://github.com/ciikaldanrobi/command-line/assets/162525409/fde59f36-491e-4cf3-a41e-dc138d7541a6)
-![4](https://github.com/ciikaldanrobi/command-line/assets/162525409/79a976a5-6078-46b4-a190-cfe63caa5960)
-![5](https://github.com/ciikaldanrobi/command-line/assets/162525409/9a27cad6-5f55-44c1-bf9d-4f9a3ff4fa0f)
-![6](https://github.com/ciikaldanrobi/command-line/assets/162525409/a0261b20-e314-4bf6-95bd-e7005e8f99fb)
-![7](https://github.com/ciikaldanrobi/command-line/assets/162525409/b4910aa0-0fa6-4ae4-ae30-37e0959fe619)
-![8](https://github.com/ciikaldanrobi/command-line/assets/162525409/be263987-d5c3-4e88-a0c3-209c8ceb6718)
-![9](https://github.com/ciikaldanrobi/command-line/assets/162525409/ca409a7b-fe19-49a7-a676-2a2d4f719af3)
-![0](https://github.com/ciikaldanrobi/command-line/assets/162525409/253f2d8a-5376-4474-8729-7c92784f4c72)
-![12](https://github.com/ciikaldanrobi/command-line/assets/162525409/b20d6134-fa7e-43fe-af8c-208450b5ecab)
-![13](https://github.com/ciikaldanrobi/command-line/assets/162525409/7ce0c0c9-8c16-43b1-86b8-a399e8424c99)
-![14](https://github.com/ciikaldanrobi/command-line/assets/162525409/9a0f75c4-b346-4a7a-bac5-36560e511e21)
-![15](https://github.com/ciikaldanrobi/command-line/assets/162525409/f38b6cf7-ae96-45de-9a16-f0e2515b3493)
-![16](https://github.com/ciikaldanrobi/command-line/assets/162525409/8b86cbbd-85ec-4c6a-a4a9-0e58f3541146)
-![17](https://github.com/ciikaldanrobi/command-line/assets/162525409/50656740-0deb-462d-bce9-6ad10b288bc6)
-![18](https://github.com/ciikaldanrobi/command-line/assets/162525409/4c96756a-614c-4b6e-b9d0-1f5ae8d68b5a)
-![19](https://github.com/ciikaldanrobi/command-line/assets/162525409/933609d2-c750-4912-8ee7-f1fb513e6b19)
-![20](https://github.com/ciikaldanrobi/command-line/assets/162525409/3ac342ae-ede8-4feb-8a81-8fb1b7380909)
-![21](https://github.com/ciikaldanrobi/command-line/assets/162525409/0a5f2a60-b400-418e-876f-73457947f0c2)
-![22](https://github.com/ciikaldanrobi/command-line/assets/162525409/c41c449c-7329-46f7-b574-2a69cf5a6ced)
+![1](https://github.com/ciikaldanrobi/command-line/assets/162525409/feb351c1-8f31-4a45-8ad4-04b319d27883)lsperintah menampilkan daftar informasi tentang file. Mengaitkan nama perintah dengan sesuatu yang bersifat mnemonik mengenai fungsinya dapat membantu Anda mengingat perintah dengan lebih mudah.
+![2](https://github.com/ciikaldanrobi/command-line/assets/162525409/6b448247-bd95-4eab-a2a8-07d95c7bd43a) Perintah tersebut lsdapat diberi nama direktori sebagai argumen, dan akan mencantumkan isi direktori tersebut.Output yang dihasilkan adalah daftar file yang terdapat dalam Documentsdirektori.
+![3](https://github.com/ciikaldanrobi/command-line/assets/162525409/fde59f36-491e-4cf3-a41e-dc138d7541a6)aptitudeperintahnya adalah alat manajemen paket yang tersedia di beberapa distribusi Linux. Perintah ini akan diterima moosebagai argumen
+![4](https://github.com/ciikaldanrobi/command-line/assets/162525409/79a976a5-6078-46b4-a190-cfe63caa5960)  -l opsi diberikan pada ls perintah, yang menghasilkan keluaran "tampilan panjang", yang berarti keluaran tersebut memberikan lebih banyak informasi tentang setiap file yang terdaftar
+![5](https://github.com/ciikaldanrobi/command-line/assets/162525409/9a27cad6-5f55-44c1-bf9d-4f9a3ff4fa0f)lsperintah mencetak hasil dalam urutan abjad, jadi menambahkan -ropsi akan mencetak hasil dalam urutan abjad terbalik.
+![6](https://github.com/ciikaldanrobi/command-line/assets/162525409/a0261b20-e314-4bf6-95bd-e7005e8f99fb)-lmemberikan format listing yang panjang sambil -rmembalikkan listing. Hasil dari penggunaan kedua opsi tersebut adalah daftar panjang yang diberikan dalam urutan terbalik:
+![7](https://github.com/ciikaldanrobi/command-line/assets/162525409/b4910aa0-0fa6-4ae4-ae30-37e0959fe619) perintah dapat menggunakan banyak kombinasi opsi dan argumen. Kemungkinan untuk setiap perintah akan unik
+![8](https://github.com/ciikaldanrobi/command-line/assets/162525409/be263987-d5c3-4e88-a0c3-209c8ceb6718)Dimungkinkan untuk mengubah perilaku perintah ini menggunakan opsi. Lihat apa yang terjadi ketika -vopsi (verbose) ditambahkan:
+![9](https://github.com/ciikaldanrobi/command-line/assets/162525409/ca409a7b-fe19-49a7-a676-2a2d4f719af3)Dengan menggabungkan beberapa -vopsi, kita bisa mendapatkan beragam respons:
+![0](https://github.com/ciikaldanrobi/command-line/assets/162525409/253f2d8a-5376-4474-8729-7c92784f4c72)pwdperintah dapat digunakan. Perintah ini pwdmencetak direktori kerja, lokasi Anda saat ini dalam sistem file:
+![11](https://github.com/ciikaldanrobi/command-line/assets/162525409/777ff8b6-454b-4c79-8a11-48856741ea17)gunakan cdperintah (ubah direktori) untuk mengubah direktori.
+![12](https://github.com/ciikaldanrobi/command-line/assets/162525409/b20d6134-fa7e-43fe-af8c-208450b5ecab) Untuk berpindah ke Documentsdirektori, gunakan sebagai argumen pada cdperintah:
+![13](https://github.com/ciikaldanrobi/command-line/assets/162525409/7ce0c0c9-8c16-43b1-86b8-a399e8424c99)Gunakan jalur relatif sebagai argumen pada cdperintah untuk berpindah ke Artdirektori.
+![14](https://github.com/ciikaldanrobi/command-line/assets/162525409/9a0f75c4-b346-4a7a-bac5-36560e511e21)Gunakan pwdperintah untuk mengonfirmasi perubahan:
+![15](https://github.com/ciikaldanrobi/command-line/assets/162525409/f38b6cf7-ae96-45de-9a16-f0e2515b3493)Terlepas dari direktori mana Anda berada, ..selalu mewakili satu direktori yang lebih tinggi dibandingkan direktori saat ini, terkadang disebut sebagai direktori induk. Untuk berpindah dari Artdirektori kembali ke Schooldirektori:
+![16](https://github.com/ciikaldanrobi/command-line/assets/162525409/8b86cbbd-85ec-4c6a-a4a9-0e58f3541146)Direktori home pengguna saat ini diwakili oleh ~karakter. Seperti dinyatakan di atas, Anda selalu memulai sebagai sysadminpengguna, yang rumahnya berlokasi di /home/sysadmin. Untuk kembali ke direktori home Anda kapan saja, jalankan perintah berikut
+![17](https://github.com/ciikaldanrobi/command-line/assets/162525409/50656740-0deb-462d-bce9-6ad10b288bc6)opsi -lpada lsperintah. Di bawah ini, daftar direktori /var/logdigunakan sebagai contoh, karena menyediakan berbagai keluaran:
+![18](https://github.com/ciikaldanrobi/command-line/assets/162525409/4c96756a-614c-4b6e-b9d0-1f5ae8d68b5a)Opsi pada contoh di bawah ini akan digabungkan dengan opsi -lsehingga detail file yang relevan ditampilkan.Opsi ini -t akan mengurutkan file berdasarkan stempel waktu
+![19](https://github.com/ciikaldanrobi/command-line/assets/162525409/933609d2-c750-4912-8ee7-f1fb513e6b19)Opsi ini -r akan membalikkan urutan jenis apa pun. Perhatikan perbedaannya ketika ditambahkan ke contoh sebelumnya
+![20](https://github.com/ciikaldanrobi/command-line/assets/162525409/3ac342ae-ede8-4feb-8a81-8fb1b7380909)Angka-angka di bidang ukuran file beralih dari menurun ke menaik.Digunakan sendiri -ropsi dengan daftar file dalam urutan abjad terbalik:
+![21](https://github.com/ciikaldanrobi/command-line/assets/162525409/0a5f2a60-b400-418e-876f-73457947f0c2)File hello.shyang digunakan pada contoh di halaman sebelumnya adalah script. Skrip adalah file yang dapat dieksekusi, mirip dengan perintah:Namun saat ini, izin eksekusi tidak ditetapkan untuk grup izin mana pun:
+![22](https://github.com/ciikaldanrobi/command-line/assets/162525409/c41c449c-7329-46f7-b574-2a69cf5a6ced)Saat membuat daftar file dengan ls -lperintah, output menyertakan informasi izin. Sebagai contoh kita akan menggunakan skrip bernama hello.shyang terletak di Documentsdirektori:
 ![23](https://github.com/ciikaldanrobi/command-line/assets/162525409/71693bbe-1f8e-42f5-97e9-6b08b78b8800)
-![29](https://github.com/ciikaldanrobi/command-line/assets/162525409/e6fa8a50-2d94-4225-9ffb-74e231870848)
-![30](https://github.com/ciikaldanrobi/command-line/assets/162525409/e62939c5-5b57-4f12-a776-4ef745d77bb6)
-![31](https://github.com/ciikaldanrobi/command-line/assets/162525409/42773814-480e-420e-87df-194518ec2277)
-![32](https://github.com/ciikaldanrobi/command-line/assets/162525409/8d00e00c-4bed-4202-9114-b1fbceb7f3ed)
-![33](https://github.com/ciikaldanrobi/command-line/assets/162525409/cc5ac92f-37c8-4e47-9fe8-ef1bbbe87b6e)
-![34](https://github.com/ciikaldanrobi/command-line/assets/162525409/915ecc21-dc61-4beb-b3dd-828bcfd24ac8)
-![35](https://github.com/ciikaldanrobi/command-line/assets/162525409/e05a9f5f-4430-42a3-b462-dcb65fc1908b)
-![36](https://github.com/ciikaldanrobi/command-line/assets/162525409/067b0d2d-e96d-4107-a4b8-0fc2d283d3c1)
-![37](https://github.com/ciikaldanrobi/command-line/assets/162525409/c03989f5-68c2-44f7-ace8-f031006afcab)
-![38](https://github.com/ciikaldanrobi/command-line/assets/162525409/6d51baa9-8391-40f4-b447-bb4f792bc29b)
-![39](https://github.com/ciikaldanrobi/command-line/assets/162525409/82f6b1d9-f914-4c6f-a8cb-5853179bf03a)
-![40](https://github.com/ciikaldanrobi/command-line/assets/162525409/23cf4c91-c9fb-423b-af53-a1de47c8e735)
-![41](https://github.com/ciikaldanrobi/command-line/assets/162525409/36087ea3-7bb8-449d-8602-e414c48b960f)
-![42](https://github.com/ciikaldanrobi/command-line/assets/162525409/d8d2ee03-c8c5-4b1b-861d-23fdfa729ab2)
-![44](https://github.com/ciikaldanrobi/command-line/assets/162525409/28bffa6d-4f6f-471b-a5fc-3210651886ca)
-![45](https://github.com/ciikaldanrobi/command-line/assets/162525409/fb2da6f1-90f4-4e1a-b1b6-8a37420ef83b)
-![46](https://github.com/ciikaldanrobi/command-line/assets/162525409/ad36e780-18a6-43f9-9a43-ae09660acda8)
-![47](https://github.com/ciikaldanrobi/command-line/assets/162525409/856497aa-cfe9-43c5-9f7a-5279b3ef6f45)
-![48](https://github.com/ciikaldanrobi/command-line/assets/162525409/12c9b7cc-bfaf-4d33-a9ed-635c6ba5e195)
-![49](https://github.com/ciikaldanrobi/command-line/assets/162525409/88280941-0bed-4061-91ed-cdd6531ba98a)
-![50](https://github.com/ciikaldanrobi/command-line/assets/162525409/e3c44729-b4ef-473d-8743-112a648e111e)
+![29](https://github.com/ciikaldanrobi/command-line/assets/162525409/e6fa8a50-2d94-4225-9ffb-74e231870848)Untuk membandingkan output dari perintah headdan taildengan perintah tersebut cat, gunakan catperintah untuk melihat keseluruhan alpha.txtfile
+![30](https://github.com/ciikaldanrobi/command-line/assets/162525409/e62939c5-5b57-4f12-a776-4ef745d77bb6)Untuk memfilter output dan melihat baris dari atas file alpha.txt, gunakan headperintah
+![31](https://github.com/ciikaldanrobi/command-line/assets/162525409/42773814-480e-420e-87df-194518ec2277)untuk melihat baris di bagian bawah file alpha.txt, gunakan tailperintah
+![32](https://github.com/ciikaldanrobi/command-line/assets/162525409/8d00e00c-4bed-4202-9114-b1fbceb7f3ed)untuk mengubah output perintah headuntuk melihat lima baris pertama file alpha.txt
+![33](https://github.com/ciikaldanrobi/command-line/assets/162525409/cc5ac92f-37c8-4e47-9fe8-ef1bbbe87b6e)untuk melihat lima baris terakhir file alpha.txt
+![34](https://github.com/ciikaldanrobi/command-line/assets/162525409/915ecc21-dc61-4beb-b3dd-828bcfd24ac8))Hasil dari menjalankan perintah sebelumnya akan membuat salinan isi file /etc/passwddi Documentsdirektori, karena itulah direktori kita saat ini. Hal ini dapat dikonfirmasi dengan menggunakan ls perintah
+![35](https://github.com/ciikaldanrobi/command-line/assets/162525409/e05a9f5f-4430-42a3-b462-dcb65fc1908b)Perintah ini rmakan mengabaikan direktori yang diminta untuk dihapus; untuk menghapus direktori, gunakan opsi rekursif, baik opsi -ratau -R.
+![36](https://github.com/ciikaldanrobi/command-line/assets/162525409/067b0d2d-e96d-4107-a4b8-0fc2d283d3c1)passwdfile yang sebelumnya kita salin ke Documentsdirektori berisi rincian akun sistem khusus dan akun pengguna di sistem. File ini bisa sangat besar, namun grepperintah tersebut dapat digunakan untuk menyaring informasi tentang pengguna tertentu, misalnya pengguna sysadmin. Gunakan sysadminsebagai argumen pola dan passwdsebagai argumen file
+![37](https://github.com/ciikaldanrobi/command-line/assets/162525409/c03989f5-68c2-44f7-ace8-f031006afcab)Karakter jangkar adalah salah satu cara ekspresi reguler digunakan untuk mempersempit hasil pencarian. Misalnya, polanya rootmuncul berkali-kali di /etc/passwdfile
+![38](https://github.com/ciikaldanrobi/command-line/assets/162525409/6d51baa9-8391-40f4-b447-bb4f792bc29b)untuk menemukan semua garis yang diawali/etc/passwd dengan menggunakan pola . Perlu diperhatikan bahwa karakter tersebut harus menjadi karakter pertama dalam pola agar efektif.root^root^
+![39](https://github.com/ciikaldanrobi/command-line/assets/162525409/82f6b1d9-f914-4c6f-a8cb-5853179bf03a)Perintah ini catdapat digunakan untuk mencetak isi file
+![40](https://github.com/ciikaldanrobi/command-line/assets/162525409/23cf4c91-c9fb-423b-af53-a1de47c8e735)Contoh berikut akan menggunakan red.txtfile
+![41](https://github.com/ciikaldanrobi/command-line/assets/162525409/36087ea3-7bb8-449d-8602-e414c48b960f)karakter titik. Ini akan cocok dengan karakter apa pun kecuali karakter baris baru. Polanya r..fakan menemukan baris apa pun yang berisi huruf tersebut rdiikuti oleh tepat dua karakter (yang dapat berupa karakter apa pun kecuali baris baru) dan kemudian huruf f
+![42](https://github.com/ciikaldanrobi/command-line/assets/162525409/d8d2ee03-c8c5-4b1b-861d-23fdfa729ab2)Karakter ini dapat digunakan berapa kali pun. Untuk menemukan semua kata yang memiliki setidaknya empat karakter, pola berikut dapat digunakan
+![44](https://github.com/ciikaldanrobi/command-line/assets/162525409/28bffa6d-4f6f-471b-a5fc-3210651886ca)Tanda kurung siku [ ]cocok dengan satu karakter dari daftar atau rentang kemungkinan karakter yang terdapat dalam tanda kurung.Misalnya, diberikan profile.txtfile
+![45](https://github.com/ciikaldanrobi/command-line/assets/162525409/fb2da6f1-90f4-4e1a-b1b6-8a37420ef83b)Untuk mencari semua garis yang profile.txtmemiliki nomor di dalamnya, gunakan pola [0123456789]atau [0-9]
+![46](https://github.com/ciikaldanrobi/command-line/assets/162525409/ad36e780-18a6-43f9-9a43-ae09660acda8).biasanya cocok dengan salah satu karakter, tetapi ditempatkan di dalam tanda kurung siku, maka karakter tersebut akan cocok dengan dirinya sendiri. Pada contoh berikutnya, hanya baris yang berisi .karakter yang cocok
+![47](https://github.com/ciikaldanrobi/command-line/assets/162525409/856497aa-cfe9-43c5-9f7a-5279b3ef6f45)Karakter ekspresi reguler *digunakan untuk mencocokkan nol atau lebih kemunculan karakter atau pola sebelumnya. Misalnya e*akan cocok dengan nol atau lebih kemunculan huruf e
+![48](https://github.com/ciikaldanrobi/command-line/assets/162525409/12c9b7cc-bfaf-4d33-a9ed-635c6ba5e195)Dimungkinkan juga untuk mencocokkan nol atau lebih kemunculan daftar karakter dengan memanfaatkan tanda kurung siku. Pola [oe]*yang digunakan dalam contoh berikut akan cocok dengan nol atau lebih kemunculan karakter oatau karakter tersebut e
+![49](https://github.com/ciikaldanrobi/command-line/assets/162525409/88280941-0bed-4061-91ed-cdd6531ba98a)Jika digunakan hanya dengan satu karakter lain, *tidak terlalu membantu. Salah satu pola berikut akan cocok dengan setiap string atau baris dalam file: .* e* b* z*.
+![50](https://github.com/ciikaldanrobi/command-line/assets/162525409/e3c44729-b4ef-473d-8743-112a648e111e)Hal ini karena tidak* dapat mencocokkan kemunculan suatu pola. Agar berguna , perlu dibuat pola yang mencakup lebih dari satu karakter sebelumnya . Misalnya, hasil di atas dapat disempurnakan dengan menambahkan yang lain untuk membuat polanya cocok secara efektif dengan setiap baris yang berisi setidaknya satu 
+![24](https://github.com/ciikaldanrobi/command-line/assets/162525409/27f53709-19c0-4755-867f-c3b01ea19b55)Tanpa opsi apa pun, rmperintah ini biasanya digunakan untuk menghapus file biasa
+![25](https://github.com/ciikaldanrobi/command-line/assets/162525409/c051a66f-485c-4898-9877-b771fb1ca6ea)File ini bisa sangat besar, namun grepperintah tersebut dapat digunakan untuk menyaring informasi tentang pengguna tertentu, misalnya pengguna sysadmin. Gunakan sysadminsebagai argumen pola dan passwdsebagai argumen file
+![26](https://github.com/ciikaldanrobi/command-line/assets/162525409/aeb05f46-457e-4b51-adc5-8d40cfb014fb)Tidak semua pengaturan jaringan penting untuk modul ini, namun penting untuk diperhatikan dalam contoh berikut bahwa alamat IPv4 perangkat jaringan utama eth0adalah 192.168.1.2dan perangkat sedang aktif ( UP)
+![27](https://github.com/ciikaldanrobi/command-line/assets/162525409/5ac1a986-ab14-4a6e-b79f-3d8c10a63c54)Perintah ini psakan menampilkan proses yang berjalan di terminal saat ini secara default. Dalam contoh di atas, intinya adalah proses yang dibuat oleh eksekusi perintah ps
+![28](https://github.com/ciikaldanrobi/command-line/assets/162525409/59e0b005-1f79-40a9-8945-475831064324)Daripada hanya melihat proses yang berjalan di terminal saat ini, pengguna mungkin ingin melihat setiap proses yang berjalan di sistem. Opsi ini -eakan menampilkan setiap proses
+![43](https://github.com/ciikaldanrobi/command-line/assets/162525409/6ee29107-5068-4e5e-b9a4-211d70beb999)-f opsi juga digunakan karena memberikan detail lebih lanjut pada keluaran perintah, termasuk opsi dan argumen. Cari psperintah di baris terakhir, CMDkolom tersebut sekarang menyertakan opsi yang digunakan
